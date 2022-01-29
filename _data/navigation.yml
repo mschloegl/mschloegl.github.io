@@ -16,7 +16,7 @@ main:
     #url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: http://mschloegl.github.io/files/schloegl_cv.pdf
     
     #- title: "Guide"
     #url: /markdown/
