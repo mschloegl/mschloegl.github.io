@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+<ul class="publications-list" style="list-style: none; padding-left: 0;">
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <li style="margin-bottom: 1.2em;">
+    <strong>{{ post.title }}</strong><br>
+    <span style="color: #555;">{{ post.venue }}, {{ post.date | date: "%Y" }}</span><br>
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" target="_blank">{{ post.paperurl }}</a>
+    {% endif %}
+  </li>
 {% endfor %}
+</ul>
