@@ -9,35 +9,57 @@ redirect_from:
 ---
 
 
-I am a senior data scientist at DaphOS GmbH. Previously I was a senior data scientist at Solgenium GmbH where I worked in operational research. I received a degree in physics in 2012 from the [University of Regensburg](http://uni-r.de) and completed my Ph.D. in biomedical engineering from the [Technical University in Graz](https://www.tugraz.at/institute/ibi/home) in 2018.
-
-I worked in the areas of computational methods for biomedical imaging before turning to data science with more focus towards (statistical) optimization in healthcare. My previous research focussed on accelerating magnetic resonance imaging (MRI), quantitative MRI and motion correction in MRI.
+I am a Senior Data Scientist at DaphOS GmbH, where I develop data-driven solutions at the intersection of optimization and applied science. Previously, I held data science roles at Solgenium GmbH, specializing in operational research and statistical optimization in healthcare. I hold a Ph.D. in Computer Science and Biomedical Engineering from [Graz University of Technology](https://www.tugraz.at/institute/ibi/home) (2018) and a diploma in Physics from the [University of Regensburg](http://uni-r.de) (2012). My academic research centered on computational methods for biomedical imaging, with a particular focus on accelerated magnetic resonance imaging (MRI), quantitative MRI, and motion correction techniques. This strong foundation in mathematical modeling and numerical optimization continues to inform my work in industry.
 
 ## Education
 
-<img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **2012 – 2018: Dr.rer.nat. Computer Science and Biomedical Engineering**
-Graz University of Technology, Institute of Medical Engineering, Graz, Austria
-PhD-Thesis: *Spatio-temporal image reconstruction for accelerating dynamic MRI applications using variational priors.* DOI: [10.3217/2xcyj-f3c87](https://doi.org/10.3217/2xcyj-f3c87)
-
-<img src="/images/logos/uni-r.png" alt="Uni Regensburg" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **2006 – 2011: Physics (Dipl.-Phys.)**
-University of Regensburg, Germany and Universidad de Granada, Spain
-Diploma-Thesis: *Bayesian segmentation of MR images using the α-stable distribution — Application to dementia disease detection.*
-
-**2005 – 2006: Microsystems Engineering**
-University of Applied Sciences, Regensburg, Germany
-
-**2004: Abitur**
-Johann-Andreas-Schmeller Gymnasium, Nabburg, Germany
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 2.5em;"><img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 2em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; white-space: nowrap;"><strong>2012 – 2018</strong></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top;"><strong>Dr.rer.nat. Computer Science and Biomedical Engineering</strong><br>Graz University of Technology, Institute of Medical Engineering, Graz, Austria<br>PhD-Thesis: <em>Spatio-temporal image reconstruction for accelerating dynamic MRI applications using variational priors.</em> DOI: <a href="https://doi.org/10.3217/2xcyj-f3c87">10.3217/2xcyj-f3c87</a></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 2.5em;"><img src="/images/logos/uni-r.png" alt="Uni Regensburg" style="height: 2em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; white-space: nowrap;"><strong>2006 – 2011</strong></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top;"><strong>Physics (Dipl.-Phys.)</strong><br>University of Regensburg, Germany and Universidad de Granada, Spain<br>Diploma-Thesis: <em>Bayesian segmentation of MR images using the α-stable distribution — Application to dementia disease detection.</em></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 2.5em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; white-space: nowrap;"><strong>2005 – 2006</strong></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top;"><strong>Microsystems Engineering</strong><br>University of Applied Sciences, Regensburg, Germany</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 2.5em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; white-space: nowrap;"><strong>2004</strong></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top;"><strong>Abitur</strong><br>Johann-Andreas-Schmeller Gymnasium, Nabburg, Germany</td>
+  </tr>
+</table>
 
 ## Professional Appointments
 
-<p style="margin-bottom: 1.2em;"><img src="/images/logos/daphos.png" alt="DaphOS" style="height: 1.5em; vertical-align: middle; margin-right: 0.5em;"> <strong>since 10/2025:</strong> Senior Data Scientist, DaphOS GmbH</p>
-
-<p style="margin-bottom: 1.2em;"><img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 1.5em; vertical-align: middle; margin-right: 0.5em;"> <strong>01/2024 – 09/2025:</strong> Senior Data Scientist, Solgenium GmbH</p>
-
-<p style="margin-bottom: 1.2em;"><img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 1.5em; vertical-align: middle; margin-right: 0.5em;"> <strong>01/2019 – 12/2023:</strong> Data Scientist, Solgenium GmbH</p>
-
-<p style="margin-bottom: 1.2em;"><img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 1.5em; vertical-align: middle; margin-right: 0.5em;"> <strong>03/2012 – 12/2018:</strong> Research Assistant, Institute of Medical Engineering, Graz University of Technology</p>
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 2.5em;"><img src="/images/logos/daphos.png" alt="DaphOS" style="height: 1.5em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; white-space: nowrap;"><strong>since 10/2025</strong></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle;">Senior Data Scientist, DaphOS GmbH</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 2.5em;"><img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 1.5em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; white-space: nowrap;"><strong>01/2024 – 09/2025</strong></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle;">Senior Data Scientist, Solgenium GmbH</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 2.5em;"><img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 1.5em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; white-space: nowrap;"><strong>01/2019 – 12/2023</strong></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle;">Data Scientist, Solgenium GmbH</td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 2.5em;"><img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 1.5em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; white-space: nowrap;"><strong>03/2012 – 12/2018</strong></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle;">Research Assistant, Institute of Medical Engineering, Graz University of Technology</td>
+  </tr>
+</table>
 
 ## Publications
 
