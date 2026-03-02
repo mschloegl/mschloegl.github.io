@@ -3,6 +3,9 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+toc: true
+toc_label: "Contents"
+toc_icon: "list"
 redirect_from: 
   - /about/
   - /about.html
@@ -31,10 +34,13 @@ Johann-Andreas-Schmeller Gymnasium, Nabburg, Germany
 
 ## Professional Appointments
 
-<img src="/images/logos/daphos.png" alt="DaphOS" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **since 10/2025:** Senior Data Scientist, DaphOS GmbH
-<img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **01/2024 – 09/2025:** Senior Data Scientist, Solgenium GmbH
-<img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **01/2019 – 12/2023:** Data Scientist, Solgenium GmbH
-<img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **03/2012 – 12/2018:** Research Assistant, Institute of Medical Engineering, Graz University of Technology
+<p style="margin-bottom: 1.2em;"><img src="/images/logos/daphos.png" alt="DaphOS" style="height: 1.5em; vertical-align: middle; margin-right: 0.5em;"> <strong>since 10/2025:</strong> Senior Data Scientist, DaphOS GmbH</p>
+
+<p style="margin-bottom: 1.2em;"><img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 1.5em; vertical-align: middle; margin-right: 0.5em;"> <strong>01/2024 – 09/2025:</strong> Senior Data Scientist, Solgenium GmbH</p>
+
+<p style="margin-bottom: 1.2em;"><img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 1.5em; vertical-align: middle; margin-right: 0.5em;"> <strong>01/2019 – 12/2023:</strong> Data Scientist, Solgenium GmbH</p>
+
+<p style="margin-bottom: 1.2em;"><img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 1.5em; vertical-align: middle; margin-right: 0.5em;"> <strong>03/2012 – 12/2018:</strong> Research Assistant, Institute of Medical Engineering, Graz University of Technology</p>
 
 ## Publications
 
