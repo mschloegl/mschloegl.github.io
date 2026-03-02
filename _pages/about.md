@@ -19,22 +19,22 @@ My academic research centered on computational methods for biomedical imaging, w
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
-    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 3em;"><img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 2em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 5em; min-width: 5em;"><img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 2em; max-width: 100%;"></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; white-space: nowrap;"><strong>2012 – 2018</strong></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: top;"><strong>Dr.rer.nat. Computer Science and Biomedical Engineering</strong><br>Graz University of Technology, Institute of Medical Engineering, Graz, Austria<br>PhD-Thesis: <em>Spatio-temporal image reconstruction for accelerating dynamic MRI applications using variational priors.</em> DOI: <a href="https://doi.org/10.3217/2xcyj-f3c87">10.3217/2xcyj-f3c87</a></td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 3em;"><img src="/images/logos/uni-r.png" alt="Uni Regensburg" style="height: 2em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 5em; min-width: 5em;"><img src="/images/logos/uni-r.png" alt="Uni Regensburg" style="height: 2em; max-width: 100%;"></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; white-space: nowrap;"><strong>2006 – 2011</strong></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: top;"><strong>Physics (Dipl.-Phys.)</strong><br>University of Regensburg, Germany and Universidad de Granada, Spain<br>Diploma-Thesis: <em>Bayesian segmentation of MR images using the α-stable distribution — Application to dementia disease detection.</em></td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 3em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 5em; min-width: 5em;"></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; white-space: nowrap;"><strong>2005 – 2006</strong></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: top;"><strong>Microsystems Engineering</strong><br>University of Applied Sciences, Regensburg, Germany</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 3em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; width: 5em; min-width: 5em;"></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: top; white-space: nowrap;"><strong>2004</strong></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: top;"><strong>Abitur</strong><br>Johann-Andreas-Schmeller Gymnasium, Nabburg, Germany</td>
   </tr>
@@ -44,22 +44,22 @@ My academic research centered on computational methods for biomedical imaging, w
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr style="border: none;">
-    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 3em;"><img src="/images/logos/daphos.png" alt="DaphOS" style="height: 2em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 5em; min-width: 5em;"><img src="/images/logos/daphos.png" alt="DaphOS" style="height: 2em; max-width: 100%;"></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; white-space: nowrap;"><strong>since 10/2025</strong></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle;">Senior Data Scientist, DaphOS GmbH</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 3em;"><img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 2em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 5em; min-width: 5em;"><img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 2em; max-width: 100%;"></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; white-space: nowrap;"><strong>01/2024 – 09/2025</strong></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle;">Senior Data Scientist, Solgenium GmbH</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 3em;"><img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 2em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 5em; min-width: 5em;"><img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 2em; max-width: 100%;"></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; white-space: nowrap;"><strong>01/2019 – 12/2023</strong></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle;">Data Scientist, Solgenium GmbH</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 3em;"><img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 2em;"></td>
+    <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; width: 5em; min-width: 5em;"><img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 2em; max-width: 100%;"></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle; white-space: nowrap;"><strong>03/2012 – 12/2018</strong></td>
     <td style="border: none; padding: 0.5em 0.75em; vertical-align: middle;">Research Assistant, Institute of Medical Engineering, Graz University of Technology</td>
   </tr>
