@@ -15,41 +15,40 @@ I worked in the areas of computational methods for biomedical imaging before tur
 
 ## Education
 
-| | |
-|---|---|
-| 2012 – 2018 | **Dr.rer.nat. Computer Science and Biomedical Engineering** |
-| | Graz University of Technology, Institute of Medical Engineering, Graz, Austria |
-| | PhD-Thesis: *Spatio-temporal image reconstruction for accelerating dynamic MRI applications using variational priors.* DOI: [10.3217/2xcyj-f3c87](https://doi.org/10.3217/2xcyj-f3c87) |
-| 2006 – 2011 | **Physics (Dipl.-Phys.)** |
-| | University of Regensburg, Germany and Universidad de Granada, Spain |
-| | Diploma-Thesis: *Bayesian segmentation of MR images using the α-stable distribution — Application to dementia disease detection.* |
-| 2005 – 2006 | **Microsystems Engineering** |
-| | University of Applied Sciences, Regensburg, Germany |
-| 2004 | **Abitur** |
-| | Johann-Andreas-Schmeller Gymnasium, Nabburg, Germany |
+<img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **2012 – 2018: Dr.rer.nat. Computer Science and Biomedical Engineering**
+Graz University of Technology, Institute of Medical Engineering, Graz, Austria
+PhD-Thesis: *Spatio-temporal image reconstruction for accelerating dynamic MRI applications using variational priors.* DOI: [10.3217/2xcyj-f3c87](https://doi.org/10.3217/2xcyj-f3c87)
+
+<img src="/images/logos/uni-r.png" alt="Uni Regensburg" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **2006 – 2011: Physics (Dipl.-Phys.)**
+University of Regensburg, Germany and Universidad de Granada, Spain
+Diploma-Thesis: *Bayesian segmentation of MR images using the α-stable distribution — Application to dementia disease detection.*
+
+**2005 – 2006: Microsystems Engineering**
+University of Applied Sciences, Regensburg, Germany
+
+**2004: Abitur**
+Johann-Andreas-Schmeller Gymnasium, Nabburg, Germany
 
 ## Professional Appointments
 
-| | |
-|---|---|
-| since 10/2025 | **Senior Data Scientist**, DaphOS GmbH |
-| 01/2024 – 09/2025 | **Senior Data Scientist**, Solgenium GmbH |
-| 01/2019 – 12/2023 | **Data Scientist**, Solgenium GmbH |
-| 03/2012 – 12/2018 | **Research Assistant**, Institute of Medical Engineering, Graz University of Technology |
+<img src="/images/logos/daphos.png" alt="DaphOS" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **since 10/2025:** Senior Data Scientist, DaphOS GmbH
+<img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **01/2024 – 09/2025:** Senior Data Scientist, Solgenium GmbH
+<img src="/images/logos/solgenium.png" alt="Solgenium" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **01/2019 – 12/2023:** Data Scientist, Solgenium GmbH
+<img src="/images/logos/tugraz.png" alt="TU Graz" style="height: 2em; vertical-align: middle; margin-right: 0.5em;"> **03/2012 – 12/2018:** Research Assistant, Institute of Medical Engineering, Graz University of Technology
 
 ## Publications
 
 ### Full Papers
 
-1. S.M. Spann, X. Shao, D.J. Wang, C.S. Aigner, **M. Schloegl**, K. Bredies and R. Stollberger. "Robust single-shot acquisition of high resolution whole brain ASL images by combining time-dependent 2D CAPIRINHA sampling with spatio-temporal TGV reconstruction." *NeuroImage*, 2019, doi: [10.1016/j.neuroimage.2019.116337](https://doi.org/10.1016/j.neuroimage.2019.116337)
+1. **M. Schloegl**, M. Holler, A. Schwarzl, K. Bredies and R. Stollberger. "Infimal Convolution of Total Generalized Variation Functionals for dynamic MRI." *Magnetic Resonance in Medicine*, 78(1): 142–144, 2017, doi: [10.1002/mrm.26352](https://doi.org/10.1002/mrm.26352)
 
-2. O. Maier, J. Schoormans, **M. Schloegl**, G.J. Strijkers, A. Lesch, T. Benkert, T. Block, B.F. Coolen, K. Bredies and R. Stollberger. "Rapid T1 quantification from high resolution 3D data with model-based reconstruction." *Magnetic Resonance in Medicine*, 81(3): 2072–2089, 2018, doi: [10.1002/mrm.27502](https://doi.org/10.1002/mrm.27502)
+2. S.M. Spann, X. Shao, D.J. Wang, C.S. Aigner, **M. Schloegl**, K. Bredies and R. Stollberger. "Robust single-shot acquisition of high resolution whole brain ASL images by combining time-dependent 2D CAPIRINHA sampling with spatio-temporal TGV reconstruction." *NeuroImage*, 2019, doi: [10.1016/j.neuroimage.2019.116337](https://doi.org/10.1016/j.neuroimage.2019.116337)
 
-3. A. Lesch, **M. Schloegl**, M. Holler, K. Bredies and R. Stollberger. "Ultrafast 3D Bloch-Siegert B1+ Mapping using Variational Modeling." *Magnetic Resonance in Medicine*, 81(2): 881–892, 2018, doi: [10.1002/mrm.27434](https://doi.org/10.1002/mrm.27434)
+3. O. Maier, J. Schoormans, **M. Schloegl**, G.J. Strijkers, A. Lesch, T. Benkert, T. Block, B.F. Coolen, K. Bredies and R. Stollberger. "Rapid T1 quantification from high resolution 3D data with model-based reconstruction." *Magnetic Resonance in Medicine*, 81(3): 2072–2089, 2018, doi: [10.1002/mrm.27502](https://doi.org/10.1002/mrm.27502)
 
-4. B. Neumayer, **M. Schloegl**, C. Payer, T. Widek, S. Tschauner, T. Ehammer, R. Stollberger and M. Urschler. "Reducing acquisition time for MRI-based forensic age estimation." *Scientific Reports*, 8(1):2063, 2018, doi: [10.1038/s41598-018-20475](https://doi.org/10.1038/s41598-018-20475)
+4. A. Lesch, **M. Schloegl**, M. Holler, K. Bredies and R. Stollberger. "Ultrafast 3D Bloch-Siegert B1+ Mapping using Variational Modeling." *Magnetic Resonance in Medicine*, 81(2): 881–892, 2018, doi: [10.1002/mrm.27434](https://doi.org/10.1002/mrm.27434)
 
-5. **M. Schloegl**, M. Holler, A. Schwarzl, K. Bredies and R. Stollberger. "Infimal Convolution of Total Generalized Variation Functionals for dynamic MRI." *Magnetic Resonance in Medicine*, 78(1): 142–144, 2017, doi: [10.1002/mrm.26352](https://doi.org/10.1002/mrm.26352)
+5. B. Neumayer, **M. Schloegl**, C. Payer, T. Widek, S. Tschauner, T. Ehammer, R. Stollberger and M. Urschler. "Reducing acquisition time for MRI-based forensic age estimation." *Scientific Reports*, 8(1):2063, 2018, doi: [10.1038/s41598-018-20475](https://doi.org/10.1038/s41598-018-20475)
 
 6. D. Salas-Gonzalez, J.M. Gorriz, J. Ramirez, **M. Schloegl**, E.W. Lang, A. Ortiz. "Parameterization of the distribution of white and grey matter in MRI using the α-stable distribution." *Comp. in Bio. and Med.*, 43(5): 559–567, 2013, doi: [10.1016/j.compbiomed.2013.01.003](https://doi.org/10.1016/j.compbiomed.2013.01.003)
 
